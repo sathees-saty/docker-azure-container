@@ -1,2 +1,1 @@
-# docker-azure-container
-docker-azure-container
+# Docker Azure Webappp CI & DI
