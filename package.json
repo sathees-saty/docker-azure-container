@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sathees-saty/nodejsdocker.git"
+    "url": "https://github.com/sathees-saty/docker-azure-container.git"
   },
   "keywords": [
     "node",
